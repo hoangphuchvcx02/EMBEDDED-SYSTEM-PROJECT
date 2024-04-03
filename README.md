@@ -26,7 +26,7 @@ https://github.com/hoangphuchvcx02/Embedded_System/](https://github.com/hoangphu
 
 |  File  |                                   Details                                   |  Type   |            
 | :---------------: | :----------------------------------------------------------------: | :-----: | 
-|   `IF-REMOTE-CONTROL.pdf`    |   This exercise for creating schematic and layout, exporting manufacturing files using Kicad | | 
+|   `IF-REMOTE-CONTROL.pdf`    |   This exercise for creating schematic and layout, exporting manufacturing files using Kicad |'pdf' | 
      
 
 
