@@ -18,7 +18,7 @@ In this project, I will upload exercise files, src code, and simulations of embe
 
 
 ```md
-https://github.com/hoangphuchvcx02/Embedded_System/](https://github.com/hoangphuchvcx02/EMBEDDED-SYSTEM-PROJECT)
+https://github.com/hoangphuchvcx02/EMBEDDED-SYSTEM-PROJECT
 ```
 
 
