@@ -16,7 +16,7 @@
 In this project, I will upload exercise files, src code, and simulations of embedded systems
 
 View it:
-[AVR-IR-remote-project.pdf](https://github.com/hoangphuchvcx02/EMBEDDED-SYSTEM-PROJECT/blob/main/AVR-IR-remote-project.pdf)
+[AVR-IR-remote-project.pdf](https://hoangphuchvcx02.github.io/EMBEDDED-SYSTEM-PROJECT/index.html)
 
 
 ```md
