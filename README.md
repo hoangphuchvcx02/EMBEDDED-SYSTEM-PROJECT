@@ -18,6 +18,16 @@ In this project, I will upload exercise files, src code, and simulations of embe
 View it:
 [AVR-IR-remote-project.pdf](https://hoangphuchvcx02.github.io/EMBEDDED-SYSTEM-PROJECT/index.html)
 
+|  Specification of PCB  |                                   Details                                   |           
+| :---------------: | :----------------------------------------------------------------: |
+|   IR Control circuit: transmitter circuit and  receiver circuit  |  100mm x80mm, 100mmx100mm | 
+| Number of PCB layers|  2 layers: (top, bottom)|
+|Main componets| ATmega328P, IR led, LCD 16X2, Transistor, keypad|
+|Source| 5V DC|
+|Component layout:|Arrange components properly, ensuring minimum distance between circuit lines and pads. Toplayer: mainly SMT components, Bottom Layer: Mainly circuit lines and some through-hole (THT) components.|
+|Circuit:|Minimum trace width: [Width,  0.3mm].Trace spacing: [Spacing 0.2mm].Copper layer thickness: [Copper layer thickness, 1oz].|
+|Solder Mask|Solder mask for both layers to protect circuit lines and pads.|
+|Silkscreen|Symbols and labels for components and connectors for easy assembly and inspection.|
 
 ```md
 https://github.com/hoangphuchvcx02/EMBEDDED-SYSTEM-PROJECT/blob/main/AVR-IR-remote-project.pdf
